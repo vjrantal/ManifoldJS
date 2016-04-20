@@ -37,7 +37,7 @@
     "q": "^1.4.1",
     "manifoldjs-lib": "^0.1.1",
     "manifoldjs-chrome": "^0.1.1",
-    "manifoldjs-cordova": "^0.1.1",
+    "manifoldjs-cordova": "vjrantal/manifoldjs-cordova#optional-offline",
     "manifoldjs-firefox": "^0.1.1",
     "manifoldjs-web": "^0.1.1",
     "manifoldjs-windows10": "^0.1.1"
